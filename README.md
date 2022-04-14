@@ -8,3 +8,5 @@
 5. `php artisan key:generate` для генерации уникального ключа
 6. `php artisan serve` для запуска проекта
 7. Всё готово
+
+В header запроса добавить key = apikey ; value = hello (По умолчанию)
